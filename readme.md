@@ -1,6 +1,6 @@
 ## About Tracker AngularJs System
 
-Tracker AngularJs System is system to mange projects and tasks and handle users base on Laravel frameworke & AngularJs.
+Tracker AngularJs System is system to mange projects and tasks and handle users based on Laravel frameworke & AngularJs.
 
 
 ## How to Setup the system
